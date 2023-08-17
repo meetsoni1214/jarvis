@@ -1,2 +1,3 @@
+import os
 # todo: Add your API key here
-apikey = "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"
+apikey = os.getenv('OPENAI_API_KEY')

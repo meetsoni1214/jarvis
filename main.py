@@ -7,7 +7,6 @@ from config import apikey
 import webbrowser
 import vlc
 import datetime
-import random
 import json
 import requests
 
